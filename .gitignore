@@ -1,0 +1,4 @@
+/infrastructure/db-beautique/*
+/infrastructure/rabbitmq/data/*
+/infrastructure/rabbitmq/log/*
+/infrastructure/db-mongodb/data/*
