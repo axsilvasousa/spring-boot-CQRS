@@ -1,4 +1,4 @@
-/infrastructure/db-beautique/*
+/infrastructure/db-beautique/data*
 !/infrastructure/db-beautique/data
 /infrastructure/rabbitmq/data/*
 /infrastructure/rabbitmq/log/*
